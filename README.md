@@ -204,15 +204,16 @@ Please submit your self-game logs (more than 50 games) as your registration, by 
 2,result,4,0,VILLAGER
 </pre>
 
-## AIWolf Contest 2021
+## AIWolf Contest 2022
 
-We will hold the Natural Language Division of the 2021 AIWolf Contest as described in the following website.
-http://aiwolf.org/3rd-international-aiwolf-contest
+We will hold the Natural Language Division of the 2022 AIWolf Contest as described in the following website.
+http://aiwolf.org/4th-international-aiwolf-contest
 All of the required information is describe in this README.
 
-New! Regsitration deadline (with submission of self-match game logs) for the 2021 contest has extended to **July 30**, 2021 (2021/6/24)
-
 ## Previous Contests
+
+2021:
+https://github.com/kanoyoshinobu/aiwolfdial2022/blob/main/README.2021.md
 
 2020:
 https://sites.google.com/view/aiwolfdial2020
