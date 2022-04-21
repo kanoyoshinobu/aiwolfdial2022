@@ -5,10 +5,6 @@ AIWolf Contest Natural Language Division 2022
 
 <b>日本語の情報は後半にあります。</b>
 
-New! Regsitration deadline (with submission of self-match game logs) for the 2021 contest has extended to **July 30**, 2021 (2021/6/24)
-
-大会へのチーム登録の締め切り（予選＝自己対戦のログ提出も同時です）は**2021年7月30日**に延長されました!(2021/6/24)
-
 ## Background
 
 We have been annually holding the AI werewolf contests under the AI Werewolf project. The AI werewolf contest has two divisions, the protocol division and the natural language division. The protocol division asks participants to implement an AI werewolf player agent that communicates in a middle language called the AI werewolf protocol. The natural language division asks participants to implement an AI werewolf agent that communicates in natural language. 
@@ -49,7 +45,7 @@ A team should send a mail to aiwolf at kanolab.net (replace at by @) to register
 
 ### Testing Your Agent System Beforehand
 
-A shared task participant of AIWolfDial 2020 is required to implement an AI werewolf agent that connects to our AIWolf server at the specified timing. We will provide an AIWolf server running, where participants can try connecting with dummy agents to check their system behavior. Participants are required to check their systems certainly work before the shared task run.
+A shared task participant of AIWolfDial is required to implement an AI werewolf agent that connects to our AIWolf server at the specified timing. We will provide an AIWolf server running, where participants can try connecting with dummy agents to check their system behavior. Participants are required to check their systems certainly work before the shared task run.
 
 ### Preliminary Run 
 
@@ -101,9 +97,9 @@ in the .ini file above. The server location is currently
 * port: 10001
 
 Your log will be saved to 
-* https://kanolab.net/aiwolf/2021/pre/ (preliminary contest/trial runs) 
-* https://kanolab.net/aiwolf/2021/pre/ (final contest)
-Please submit your self-game logs (more than 50 games) as your registration (see https://sites.google.com/view/aiwolfdial2020/important-dates for details).
+* https://kanolab.net/aiwolf/2022/pre/ (preliminary contest/trial runs) 
+* https://kanolab.net/aiwolf/2022/pre/ (final contest)
+Please submit your self-game logs (more than 50 games) as your registration, by attaching 50 log files.
 
 ## Example log file（self-match game）
 <pre>
@@ -262,7 +258,7 @@ See https://aiwolfdial.kanolab.net/ for details of the 2019 shared task and the 
 
 ## 参加方法
 
-一名以上のチーム。参加資格は特にありません。どなたでも参加できます。参加者には大会後にシステムの詳細を記述したドキュメントをご提出いただきます。参加者にはANAC2021への論文提出を推奨します。
+一名以上のチーム。参加資格は特にありません。どなたでも参加できます。参加者には大会後にシステムの詳細を記述したドキュメントをご提出いただきます。
 
 チームごとにaiwolf at kanolab.net (at を@にする)にメールにて送付をお願いいたします．必要事項は、チーム名、代表連絡先メールアドレス、代表者（および他のメンバー）氏名、所属名、氏名所属の公開可否（不可の場合はチーム名のみを用います）です。
 
@@ -303,11 +299,9 @@ https://github.com/aiwolfdial/RandomTalkAgent/blob/master/res/AutoStarter.ini
 * port: 10001
 
 対戦ログは 
-* https://kanolab.net/aiwolf/2021/pre/ (予選およびテスト用)
-* https://kanolab.net/aiwolf/2021/main/ (決勝)
-に保存されます。50ゲーム以上の対戦ログを、参加登録時にお送りください。詳細は 
-* https://sites.google.com/view/aiwolfdial2020/%E6%97%A5%E6%9C%AC%E8%AA%9E 
-をご覧ください。
+* https://kanolab.net/aiwolf/2022/pre/ (予選およびテスト用)
+* https://kanolab.net/aiwolf/2022/main/ (決勝)
+に保存されます。50ゲーム以上の対戦ログを、参加登録時にお送りください。
 
 ## 対戦ログの例（自己対戦の場合）
 <pre>
@@ -391,15 +385,15 @@ https://github.com/aiwolfdial/RandomTalkAgent/blob/master/res/AutoStarter.ini
 3,result,0,1,WEREWOLF
 </pre>
 
-# 人狼知能大会 2021 自然言語部門 
+# 人狼知能大会 2022 自然言語部門 
 
 大会全般の情報は公式サイト
-http://aiwolf.org/3rd-international-aiwolf-contest
+http://aiwolf.org/4th-international-aiwolf-contest
 も参照してください。自然言語部門に関しては、このREADMEにすべての情報が記載されています。
 
-大会へのチーム登録の締め切り（予選＝自己対戦のログ提出も同時です）は**2021年7月30日**に延長されました!(2021/6/24)
-
 ## 過去の大会情報
+
+人狼知能大会 自然言語部門 2021のREADMEは、このリポジトリの README.2021.md です。
 
 人狼知能大会 自然言語部門 2020の一般的な情報は、
 https://sites.google.com/view/aiwolfdial2020
